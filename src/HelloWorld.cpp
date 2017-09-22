@@ -9,6 +9,7 @@
 #include <iostream>
 using namespace std;
 
+// Make a number
 int aNumber = 5;
 
 void myFunction(int *myNumber) {
